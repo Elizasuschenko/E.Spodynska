@@ -420,7 +420,7 @@ a.callback-phone{
         left: -38%;
     }
 }
-@media (min-width: 481px) and (max-width: 768px) {
+@media (min-width: 481px) and (max-width: 767px) {
     .slide{
         position: relative;
     }
