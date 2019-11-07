@@ -476,3 +476,6 @@ a.callback-phone{
     justify-content: space-between;
 }
 }
+@media (width: 760px){
+    align-items: center;
+}
