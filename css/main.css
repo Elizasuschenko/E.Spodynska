@@ -420,7 +420,7 @@ a.callback-phone{
         left: -38%;
     }
 }
-@media (min-width: 481px) and (max-width: 767px) {
+@media (min-width: 481px) and (max-width: 768px) {
     .slide{
         position: relative;
     }
@@ -468,4 +468,11 @@ a.callback-phone{
     .navigation-slider .container{
         align-items: baseline;
     }
+}
+@media (min-width: 760px) and (max-width: 992px){
+    .navigation {
+    display: flex;
+        flex-direction: row;
+    justify-content: space-between;
+}
 }
